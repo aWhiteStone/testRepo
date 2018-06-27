@@ -1,2 +1,5 @@
 1:《利用Python进行数据分析·第2版》
 https://zhuanlan.zhihu.com/p/38093181
+
+2:机器之心（人工智能公众号）
+http://oicwx.com/index/mp/p/15/id/almosthuman2014.html
